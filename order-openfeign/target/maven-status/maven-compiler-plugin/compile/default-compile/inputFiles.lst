@@ -1,0 +1,3 @@
+/Users/huxiangming/Code/gitee/springclouddemo/order-openfeign/src/main/java/com/ming/order/controller/OrderController.java
+/Users/huxiangming/Code/gitee/springclouddemo/order-openfeign/src/main/java/com/ming/order/OrderApplication.java
+/Users/huxiangming/Code/gitee/springclouddemo/order-openfeign/src/main/java/com/ming/order/feign/StockFeignService.java
